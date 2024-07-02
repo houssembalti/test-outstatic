@@ -1,0 +1,13 @@
+{
+  "title": "articles",
+  "type": "object",
+  "properties": {
+    "title": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Title"
+    }
+  }
+}
