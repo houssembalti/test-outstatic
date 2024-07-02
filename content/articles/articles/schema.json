@@ -15,6 +15,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "date"
+    },
+    "description": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "description"
     }
   }
 }
