@@ -1,0 +1,13 @@
+{
+  "title": "articles",
+  "type": "object",
+  "properties": {
+    "date": {
+      "required": true,
+      "description": "azezae",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "date"
+    }
+  }
+}
